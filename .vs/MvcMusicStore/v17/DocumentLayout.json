@@ -1,0 +1,876 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\customauthentication\\customrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\customauthentication\\customrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\storemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\storemanagercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\customauthentication\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\customauthentication\\customauthorizeattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\accountmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\accountmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|d:\\office\\25-01-2024 music store complete\\mvcmusicstore\\mvcmusicstore\\views\\storemanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\storemanager\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\storemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\storemanager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\customauthentication\\customprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\customauthentication\\customprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\customauthentication\\custommembershipuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\customauthentication\\custommembershipuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\customauthentication\\custommembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\customauthentication\\custommembership.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\mvcmusicstoreentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\mvcmusicstoreentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\storemanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\storemanager\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\artist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\viewmodels\\shoppingcartviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\viewmodels\\shoppingcartremoveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\viewmodels\\shoppingcartremoveviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\checkoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\checkout\\addressandpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\checkout\\addressandpayment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\store\\genremenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\store\\genremenu.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\store\\browse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\store\\browse.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\shoppingcart\\cartsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\shoppingcart\\cartsummary.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\checkout\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\checkout\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\store\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\userroleprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\account\\logon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\account\\logon.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\userrolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\userrolemapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\migrations\\202401290904300_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\202401290904300_initial_migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\account\\activationaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\account\\activationaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\account\\credentialnotmatched.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\account\\credentialnotmatched.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\account\\successfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\account\\successfull.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\models\\sampledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\mvcmusicstore\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BCF597BB-1101-4710-809B-2B10D8B097FE}|MvcMusicStore\\MvcMusicStore.csproj|solutionrelative:mvcmusicstore\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Artist.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Artist.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Artist.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Artist.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Artist.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.671Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountModels.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\AccountModels.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\AccountModels.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\AccountModels.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\AccountModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomAuthorizeAttribute.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomAuthorizeAttribute.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\CustomAuthentication\\CustomAuthorizeAttribute.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomAuthorizeAttribute.cs",
+              "RelativeToolTip": "MvcMusicStore\\CustomAuthentication\\CustomAuthorizeAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreManagerController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\StoreManagerController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomRole.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomRole.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\CustomAuthentication\\CustomRole.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomRole.cs",
+              "RelativeToolTip": "MvcMusicStore\\CustomAuthentication\\CustomRole.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAAAKMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:36.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Web.config",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Web.config",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Web.config",
+              "RelativeToolTip": "MvcMusicStore\\Web.config",
+              "ViewState": "AQIAADUAAAAAAAAAAAAvwEYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-01-31T05:56:37.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAK8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\StoreManager\\Create.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\StoreManager\\Create.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\StoreManager\\Create.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\StoreManager\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-01T08:34:31.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\StoreManager\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\StoreManager\\Index.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\StoreManager\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\StoreManager\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-01-31T05:56:37.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "MvcMusicStore\\App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\App_Start\\FilterConfig.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "MvcMusicStore\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Global.asax.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Global.asax.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Global.asax.cs",
+              "RelativeToolTip": "MvcMusicStore\\Global.asax.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
+              "WhenOpened": "2024-01-31T05:56:37.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomPrincipal.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomPrincipal.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\CustomAuthentication\\CustomPrincipal.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomPrincipal.cs",
+              "RelativeToolTip": "MvcMusicStore\\CustomAuthentication\\CustomPrincipal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CustomMembershipUser.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomMembershipUser.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\CustomAuthentication\\CustomMembershipUser.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomMembershipUser.cs",
+              "RelativeToolTip": "MvcMusicStore\\CustomAuthentication\\CustomMembershipUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomMembership.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomMembership.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\CustomAuthentication\\CustomMembership.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\CustomAuthentication\\CustomMembership.cs",
+              "RelativeToolTip": "MvcMusicStore\\CustomAuthentication\\CustomMembership.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAACgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MvcMusicStoreEntities.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\MvcMusicStoreEntities.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\MvcMusicStoreEntities.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\MvcMusicStoreEntities.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\MvcMusicStoreEntities.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\StoreManager\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\StoreManager\\Delete.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\StoreManager\\Delete.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\StoreManager\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\ShoppingCart.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ShoppingCartViewModel.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\ViewModels\\ShoppingCartViewModel.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\ViewModels\\ShoppingCartViewModel.cs",
+              "RelativeToolTip": "MvcMusicStore\\ViewModels\\ShoppingCartViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ShoppingCartRemoveViewModel.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\ViewModels\\ShoppingCartRemoveViewModel.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\ViewModels\\ShoppingCartRemoveViewModel.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\ViewModels\\ShoppingCartRemoveViewModel.cs",
+              "RelativeToolTip": "MvcMusicStore\\ViewModels\\ShoppingCartRemoveViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Genre.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Genre.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\User.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\User.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\OrderDetail.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\ErrorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CheckoutController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\CheckoutController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\CheckoutController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\CheckoutController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\CheckoutController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AddressAndPayment.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Checkout\\AddressAndPayment.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Checkout\\AddressAndPayment.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Checkout\\AddressAndPayment.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Checkout\\AddressAndPayment.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAB8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Browse.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Browse.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Store\\Browse.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Browse.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Store\\Browse.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "GenreMenu.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\GenreMenu.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Store\\GenreMenu.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\GenreMenu.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Store\\GenreMenu.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\StoreController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\StoreController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CartSummary.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\ShoppingCart\\CartSummary.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\ShoppingCart\\CartSummary.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\ShoppingCart\\CartSummary.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\ShoppingCart\\CartSummary.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Complete.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Checkout\\Complete.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Checkout\\Complete.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Checkout\\Complete.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Checkout\\Complete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Order.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Order.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Order.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAADkAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Details.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Store\\Details.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Details.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Store\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\Cart.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\Cart.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UserRoleProvider.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\UserRoleProvider.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\UserRoleProvider.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\UserRoleProvider.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\UserRoleProvider.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAmwE0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "LogOn.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\LogOn.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Account\\LogOn.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\LogOn.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Account\\LogOn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Store\\Index.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Store\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UserRoleMapping.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\UserRoleMapping.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\UserRoleMapping.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\UserRoleMapping.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\UserRoleMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "ActivationAccount.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\ActivationAccount.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Account\\ActivationAccount.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\ActivationAccount.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Account\\ActivationAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "CredentialNotMatched.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\CredentialNotMatched.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Account\\CredentialNotMatched.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\CredentialNotMatched.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Account\\CredentialNotMatched.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\Configuration.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "202401290904300_initial_migration.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Migrations\\202401290904300_initial_migration.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Migrations\\202401290904300_initial_migration.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Migrations\\202401290904300_initial_migration.cs",
+              "RelativeToolTip": "MvcMusicStore\\Migrations\\202401290904300_initial_migration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Successfull.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\Successfull.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Account\\Successfull.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Account\\Successfull.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Account\\Successfull.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "SampleData.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\SampleData.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Models\\SampleData.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Models\\SampleData.cs",
+              "RelativeToolTip": "MvcMusicStore\\Models\\SampleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Controllers\\UserController.cs",
+              "RelativeToolTip": "MvcMusicStore\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-31T05:56:37.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "MvcMusicStore\\Views\\Error\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Office\\25-01-2024 Music Store Complete\\MvcMusicStore\\MvcMusicStore\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeToolTip": "MvcMusicStore\\Views\\Error\\AccessDenied.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2024-01-31T05:56:37.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
